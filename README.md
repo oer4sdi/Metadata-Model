@@ -7,7 +7,7 @@
 
 ## Metadata Model
 
-The current Metadata Model is based on both ORCA.NRW and OER Commons. The primary motto behind the creation of the Metadata Model is to reuse the existing metadata elements. Both the sites offer a list of metadata elements which stick to the concept of OER4SDI.
+The OER4SDI metadata model is a profile of the two metadata models ORCA.nrw and OER Commons. I. e. metadata records that conform to the OER4SDI metadata model contain all the essential elements for publishing the OER on one of these platforms. This applies as well to the codelists that support the reuse of existing terms as attribute values. 
 
 ## Mandatory Metadata Elements
 
