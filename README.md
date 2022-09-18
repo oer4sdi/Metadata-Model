@@ -15,17 +15,17 @@ To view the Metadata Model, use this link: https://uni-muenster.sciebo.de/s/lAHG
 
 The essential list of Metadata Elements that must be addressed in OER4SDI are as follows:
 
-| MD Element | Description |
-| ---------- | ----------- |
-| Title | Title of the OER material |
-| Author | Creator(s) of the material which includes Author's Name, Academic Degree, ORCID, Organisation |
-| Abstract | Abstract or summary of the material |
-| Subject | General subject of the OER Material |
-| Licenses | One or more open licenses, which define the usage terms for the OER material |
-| Language | Language of the OER material |
-| Type of Material | The predominant type or kind characterizing the OER material |
-| Keywords | Keywords that describe item. May include Code Table suggestions and your own keywords |
-| Support Program | Funding Program that supports the creation of OER Content |
-| Target Group | The intended group of audiance for the module |
+| MD Element |
+| ---------- | 
+| `Title` | 
+| `Author` | 
+| `Abstract` | 
+| `Subject` | 
+| `Licenses` | 
+| `Language` |
+| `Type of Material` | 
+| `Keywords` | 
+| `Support Program` | 
+| `Target Group` | 
 
-To know more about or use our metadata template click here: 
+To know more about or use our metadata template Click [Here](MD-template.MD)
